@@ -2,38 +2,43 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Casein is converted to paracasein by the enzyme:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "rennin",
+        "b": "Catalase",
+        "c": "albumin",
+        "d": "Plasmin"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The enzyme that convert lactose to glucose is___________ ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Lactose dehydrogenase",
+        "b": "Lactose permease",
+        "c": "Hexokinase",
+        "d": "β-galactosidase"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3. Acid curd is formed by the precipitation of casein as: ",
+      "answers": {
+        "a": "Calcium caseinate",
+        "b": "Paracasein",
+        "c": "Calcium paracaseinate",
+        "d": "Casein hydrolysate"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }     
+     
+    
   ]
 }
