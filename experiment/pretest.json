@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  The milk protein is_________________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "rennin",
+        "b": "casein",
+        "c": "albumin",
+        "d": "globulin"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. In the oxidized state, litmus is_______________in colour  ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "white",
+        "b": "purple",
+        "c": "pink",
+        "d": "brown"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3. The indicator in litmus milk is___________________",
+      "answers": {
+        "a": "Phenyl red",
+        "b": "Phenolphthalein",
+        "c": "Methyl orange",
+        "d": "Litmus"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  On incubation, litmus milk turn pink from purple. The possible reaction is____________________",
+        "answers": {
+          "a": "Acid Formation",
+          "b": "Peptonization",
+          "c": "Alkaline Reaction",
+          "d": "Litmus Reduction"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
