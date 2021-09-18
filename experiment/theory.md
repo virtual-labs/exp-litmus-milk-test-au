@@ -23,7 +23,7 @@ Litmus milk medium consists of 10% powdered skim milk and the dye molecule litmu
  
 &nbsp;
 
-### 1.   Lactose Fermentation:
+#### 1.   Lactose Fermentation:
  
 
 Organisms capable of using lactose as a carbon source for energy production utilize the inducible enzyme β-galactosidase and degrade lactose as follows
@@ -34,7 +34,7 @@ The presence of lactic acid is easily detected because litmus is purple at a neu
  
 &nbsp;
 
-### 2.  Alkaline Reaction:
+#### 2.  Alkaline Reaction:
  
 
 An alkaline reaction is evident when the colour of the medium remains unchanged or changes to a deeper blue. This reaction is indicative of the partial degradation of casein into shorter polypeptide chains, with the simultaneous release of alkaline end products that are responsible for the observable color change.
@@ -43,7 +43,7 @@ An alkaline reaction is evident when the colour of the medium remains unchanged 
  
 &nbsp;
 
-### 3.  Curd Formation:
+#### 3.  Curd Formation:
  
 
 The biochemical activities of different microorganisms grown in litmus milk may result in the production of two distinct types of curds(Clots). Curds are designated as either acid or rennet, depending on the biochemical mechanisms responsible for their formation.
@@ -61,7 +61,7 @@ Acid or rennet curds are quite palatable dairy products known as “ Cottage Che
  
 &nbsp;
 
-### 4.  Litmus Reduction:
+#### 4.  Litmus Reduction:
  
 
 Fermentation is  an anaerobic process involving biooxidations that occur in the absence of molecular oxygen. These  oxidations may be visualized as the removal of hydrogen ( dehydrogenation) from a substrate. Since hydrogen ions cannot exist in the free state, there must be an immediate electron acceptor available to bind these hydrogen ions, or else oxidation–reduction reactions are not possible and cells cannot manufacture energy. In the litmus milk test,  litmus acts as such an acceptor. While in the oxidized state, the litmus is purple; when it accepts hydrogen from a substrate, it will become reduced and turn white or milk colored. This oxidation of lactose, which produces lactic acid, butyric acid, CO2 and H2  is as follows:
@@ -76,7 +76,7 @@ Fermentation is  an anaerobic process involving biooxidations that occur in the 
 &nbsp;
 
 
-### 5.  Proteolysis (Peptonization):
+#### 5.  Proteolysis (Peptonization):
  
 
 The inability of some microorganisms to obtain their energy by way of lactose fermentation uses other nutritional sources such as proteins for this purpose. By means of proteolytic enzymes, these organisms hydrolyze the  milk proteins, primarily casein, into their basic building blocks, namely amino acids. This digestion of proteins is accompanied by the evolution of large quantities of ammonia, resulting in an alkaline pH in the medium with foul smell. The litmus turns deep purple. With further incubation of the medium, an opaque clearing of the medium occurs as the casein is hydrolyzed to peptides and amino acids. The opaque, turbid liquid supernatant (whey like appearance) turns brown in colour.
@@ -85,7 +85,7 @@ The inability of some microorganisms to obtain their energy by way of lactose fe
  
 &nbsp;
 
-### 6.  Gas Formation:
+#### 6.  Gas Formation:
  
 
 Some bacteria(eg: Clostridia) ferment lactose of milk with the production of acid and gases like CO2 and H2. Gas production is detected by bubbles in the acid curd or by the development of tracks or fissures within the curd as gas rises to the surface.
@@ -94,7 +94,7 @@ Some bacteria(eg: Clostridia) ferment lactose of milk with the production of aci
  
 &nbsp;
 
- Litmus Reactions:
+ **Litmus Reactions:**
  
  <img src="images/litmus3.jpg" title="" />
  
