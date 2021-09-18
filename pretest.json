@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  The milk protein is_________________",
+      "answers": {
+        "a": "rennin",
+        "b": "casein",
+        "c": "albumin",
+        "d": "globulin"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In the oxidized state, litmus is_______________in colour  ",
+      "answers": {
+        "a": "white",
+        "b": "purple",
+        "c": "pink",
+        "d": "brown"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The indicator in litmus milk is___________________",
+      "answers": {
+        "a": "Phenyl red",
+        "b": "Phenolphthalein",
+        "c": "Methyl orange",
+        "d": "Litmus"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  On incubation, litmus milk turn pink from purple. The possible reaction is____________________",
+        "answers": {
+          "a": "Acid Formation",
+          "b": "Peptonization",
+          "c": "Alkaline Reaction",
+          "d": "Litmus Reduction"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}

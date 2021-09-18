@@ -1,0 +1,44 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Casein is converted to paracasein by the enzyme:",
+      "answers": {
+        "a": "rennin",
+        "b": "Catalase",
+        "c": "albumin",
+        "d": "Plasmin"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The enzyme that convert lactose to glucose is___________ ",
+      "answers": {
+        "a": "Lactose dehydrogenase",
+        "b": "Lactose permease",
+        "c": "Hexokinase",
+        "d": "β-galactosidase"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Acid curd is formed by the precipitation of casein as: ",
+      "answers": {
+        "a": "Calcium caseinate",
+        "b": "Paracasein",
+        "c": "Calcium paracaseinate",
+        "d": "Casein hydrolysate"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }     
+     
+    
+  ]
+}
